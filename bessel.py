@@ -1,0 +1,2 @@
+print("First Kind: Bessel Function of the First Kind. All values of x=0 excel the first order m=0 are 1.")
+print("Second Kind: Besssel Function of the Second Kind. All values of x=0 except the first order. ")
